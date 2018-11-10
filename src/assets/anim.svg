@@ -1,0 +1,21 @@
+<!-- <head>
+<style>
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% {  transform: rotate(359deg); }
+}
+#star {
+    animation: spin 2s linear infinite;
+
+}
+
+</style>
+</head>
+
+<svg id=star width="4cm" height="4cm" viewBox="0 0 700 400" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <polygon fill="red" stroke="red" stroke-width="10" 
+            points="350,75  379,161 469,161 397,215
+                    423,301 350,250 277,301 303,215
+                    231,161 321,161" />
+  
+</svg> -->
